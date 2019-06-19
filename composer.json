@@ -1,0 +1,12 @@
+{
+    "name": "ahmadfds/automobile",
+    "description": "Automobile entities, repositories, and services",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ahmad Saleh",
+            "email": "ahmadfds@gmail.com"
+        }
+    ],
+    "require": {}
+}
